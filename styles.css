@@ -11,21 +11,23 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: linear-gradient(135deg, #f0f0f0, #e7e7e9ea);
+      background: linear-gradient(135deg, #2366e4, #e7e7e9ea);
     }
 
     .login-container {
-      background: #0e0d0d;
+      background: #f7f2f2;
       padding: 2rem;
       border-radius: 12px;
-      box-shadow: 0px 6px 15px rgba(253, 252, 252, 0.986);
+      box-shadow: 0px 6px 15px rgba(53, 52, 52, 0.986);
       width: 350px;
+      
+
     }
 
     .login-container h2 {
       text-align: center;
       margin-bottom: 1.5rem;
-      color: #f1efef;
+      color: #000000;
     }
 
     .login-container label {
