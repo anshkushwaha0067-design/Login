@@ -11,7 +11,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: linear-gradient(135deg, #2f4c9cde, #1a348aea);
+      background: linear-gradient(135deg, #2f4c9c, #1a348aea);
     }
 
     .login-container {
@@ -25,12 +25,12 @@
     .login-container h2 {
       text-align: center;
       margin-bottom: 1.5rem;
-      color: #333;
+      color: #f1efef;
     }
 
     .login-container label {
       font-size: 14px;
-      color: #444;
+      color: #faf7f7;
       margin-bottom: 5px;
       display: block;
     }
