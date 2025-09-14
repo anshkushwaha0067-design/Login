@@ -11,14 +11,14 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: linear-gradient(135deg, #2f4c9c7c, #1a348a83);
+      background: linear-gradient(135deg, #2f4c9cde, #1a348aea);
     }
 
     .login-container {
       background: #fff;
       padding: 2rem;
       border-radius: 12px;
-      box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+      box-shadow: 0px 6px 15px rgba(255, 0, 0, 0.986);
       width: 350px;
     }
 
